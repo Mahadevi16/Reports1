@@ -34,6 +34,18 @@
             <version>LATEST</version>
             <scope>compile</scope>
         </dependency>
+        
+    <dependency>    
+        <groupId>com.relevantcodes</groupId>
+    <artifactId>extentreports</artifactId>
+    <version>2.41.2</version>
+	</dependency>
+	<dependency>
+			<groupId>io.github.bonigarcia</groupId>
+			<artifactId>webdrivermanager</artifactId>
+			<version>4.2.2</version>
+		</dependency>
+        
  </dependencies>
 
     <build>
@@ -67,9 +79,7 @@
                     <suiteXmlFiles>
                         <suiteXmlFile>${config.file}</suiteXmlFile>
                     </suiteXmlFiles>
-                    <argLine>
-                        -javaagent:${com.browserstack:browserstack-java-sdk:jar}
-                    </argLine>
+                    
                 </configuration>
             </plugin>
              </plugins>

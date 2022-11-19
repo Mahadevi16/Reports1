@@ -1,0 +1,12 @@
+09:52:19.185 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: C:\Users\ACER\git\repository30\Automation\browserstack.yml.
+09:52:19.439 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:52:19.442 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+09:53:40.094 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: C:\Users\ACER\git\repository30\Automation\browserstack.yml.
+09:53:40.138 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:53:40.141 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+09:54:37.745 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: C:\Users\ACER\git\repository30\Automation\browserstack.yml.
+09:54:37.781 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:54:37.784 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+09:55:43.530 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - java.nio.file.NoSuchFileException: C:\Users\ACER\git\repository30\Automation\browserstack.yml.
+09:55:43.566 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+09:55:43.569 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
